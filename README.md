@@ -2,7 +2,7 @@
 ![Platform](https://img.shields.io/badge/Platform-ESP32-green)
 ![Framework](https://img.shields.io/badge/Framework-Arduino-blue)
 ![Status](https://img.shields.io/badge/Status-Active-green)
-![Release](https://img.shields.io/badge/Release-v1.0-orange)
+![Release](https://img.shields.io/badge/Release-v1.0 - OTA-orange)
 
 Ce programme transforme un ESP32 en programmateur horaire connecté, capable de piloter plusieurs relais indépendants (portail, éclairage, arrosage, chauffage...) selon des horaires programmables, avec une interface web embarquée accessible depuis n'importe quel navigateur du réseau local.
 
