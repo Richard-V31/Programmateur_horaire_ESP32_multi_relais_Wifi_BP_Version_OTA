@@ -1,4 +1,4 @@
-# Programmateur horaire ESP32 — multi-relais avec interface web Mode OTA
+# Programmateur Horaire ESP32 — multi-relais avec interface web Mode OTA
 ![Platform](https://img.shields.io/badge/Platform-ESP32-green)
 ![Framework](https://img.shields.io/badge/Framework-Arduino-blue)
 ![Status](https://img.shields.io/badge/Status-Active-green)
