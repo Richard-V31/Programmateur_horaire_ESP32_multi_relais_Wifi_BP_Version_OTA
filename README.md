@@ -1,4 +1,4 @@
-# Programmateur horaire ESP32 — multi-relais avec interface web
+# Programmateur horaire ESP32 — multi-relais avec interface web Mode OTA
 
 Ce programme transforme un ESP32 en programmateur horaire connecté, capable de piloter plusieurs relais indépendants (portail, éclairage, arrosage, chauffage...) selon des horaires programmables, avec une interface web embarquée accessible depuis n'importe quel navigateur du réseau local.
 
